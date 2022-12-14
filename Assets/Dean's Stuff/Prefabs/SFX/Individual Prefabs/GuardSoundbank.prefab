@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6917059211402498670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 140977691124679211}
+  - component: {fileID: -1786733110130340751}
+  m_Layer: 0
+  m_Name: GuardSoundbank
+  m_TagString: GuardSoundbank
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &140977691124679211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6917059211402498670}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-1786733110130340751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6917059211402498670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d245204e1aba002468adf596ebb5908d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_footstepSFX:
+  - {fileID: 8300000, guid: d3671886c40682f4c982188defd9602c, type: 3}
+  - {fileID: 8300000, guid: 5c1f51748bd8e7b42a3de7a248de9dff, type: 3}
+  - {fileID: 8300000, guid: f9a682ed4ff77c742ad3ba2c59c96b19, type: 3}
+  m_dodgeSFX: []
+  m_damageSFX:
+  - {fileID: 8300000, guid: 130894115401dff47ad491270f521f48, type: 3}
+  - {fileID: 8300000, guid: 52c00c78f67bd7a4eb90a8581ca87206, type: 3}
+  - {fileID: 8300000, guid: cf0c3fcd9037d0746a9f93b8903577dd, type: 3}
+  m_attackGruntSFX:
+  - {fileID: 8300000, guid: 5a8023293c28a0f4684fccc164309200, type: 3}
+  m_normalAttackSFX:
+  - {fileID: 8300000, guid: 90f243c1bf1b59745b6c624c79d56c53, type: 3}
+  - {fileID: 8300000, guid: 4857ac03ffb1cfb4fbd67bf974f5c0b5, type: 3}
+  - {fileID: 8300000, guid: bc604bbee73eb104ea51923623cb2f0c, type: 3}
+  m_normalCollisionSFX:
+  - {fileID: 8300000, guid: 687da8299b36fff4cad75d4971b28f0a, type: 3}
+  - {fileID: 8300000, guid: 13c667904d324f243b38a32875af64e3, type: 3}
+  - {fileID: 8300000, guid: e3e0b757a05997e428e2984333c2a8dd, type: 3}
+  m_heavyAttackSFX:
+  - {fileID: 8300000, guid: 90f243c1bf1b59745b6c624c79d56c53, type: 3}
+  - {fileID: 8300000, guid: 4857ac03ffb1cfb4fbd67bf974f5c0b5, type: 3}
+  - {fileID: 8300000, guid: bc604bbee73eb104ea51923623cb2f0c, type: 3}
+  m_heavyCollisionSFX:
+  - {fileID: 8300000, guid: 687da8299b36fff4cad75d4971b28f0a, type: 3}
+  - {fileID: 8300000, guid: 13c667904d324f243b38a32875af64e3, type: 3}
+  - {fileID: 8300000, guid: e3e0b757a05997e428e2984333c2a8dd, type: 3}
+  m_quickAttackSFX:
+  - {fileID: 8300000, guid: 90f243c1bf1b59745b6c624c79d56c53, type: 3}
+  - {fileID: 8300000, guid: 4857ac03ffb1cfb4fbd67bf974f5c0b5, type: 3}
+  - {fileID: 8300000, guid: bc604bbee73eb104ea51923623cb2f0c, type: 3}
+  m_quickCollisionSFX:
+  - {fileID: 8300000, guid: 687da8299b36fff4cad75d4971b28f0a, type: 3}
+  - {fileID: 8300000, guid: 13c667904d324f243b38a32875af64e3, type: 3}
+  - {fileID: 8300000, guid: e3e0b757a05997e428e2984333c2a8dd, type: 3}
+  m_deathSFX:
+  - {fileID: 8300000, guid: f83de11f589d2d044804884a7652fe12, type: 3}
+  m_deathFizzSFX:
+  - {fileID: 8300000, guid: e5c2331f938d14e4aa369c0a02b7079b, type: 3}
+  - {fileID: 8300000, guid: 9dfc87fa6a1e82b4ea859404c546e1bf, type: 3}
+  - {fileID: 8300000, guid: 9dfc87fa6a1e82b4ea859404c546e1bf, type: 3}
+  m_wakeSFX: {fileID: 0}
+  m_tauntSFX: []

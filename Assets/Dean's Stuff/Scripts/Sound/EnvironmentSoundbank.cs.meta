@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92aab9fe446ed3e4cae579a1a4857b11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_cellDoorOpenSFX: {fileID: 8300000, guid: b64a61bba4c232f48968961836b27bde, type: 3}
+  - m_gateOpenSFX: {instanceID: 0}
+  - m_gateCloseSFX: {instanceID: 0}
+  - m_waterDripSFX: {fileID: 8300000, guid: d075116244acee04b93f3979aed133e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

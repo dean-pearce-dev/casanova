@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8f602605286285447801672271717e92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_damageSFX: {fileID: 8300000, guid: e0d1a361c659f5646a470c49d691d778, type: 3}
+  - m_attackGruntSFX: {instanceID: 0}
+  - m_normalAttackSFX: {fileID: 8300000, guid: 8e2a5f9c90b51fc40ab2495c565c4a6d, type: 3}
+  - m_normalCollisionSFX: {fileID: 8300000, guid: 67c3b5911b38add44aaef4265d495f1d, type: 3}
+  - m_heavyAttackSFX: {fileID: 8300000, guid: 8e2a5f9c90b51fc40ab2495c565c4a6d, type: 3}
+  - m_heavyCollisionSFX: {fileID: 8300000, guid: 67c3b5911b38add44aaef4265d495f1d, type: 3}
+  - m_footstepSFX: {fileID: 8300000, guid: ffdf4fb257ec9e8449881bc6ddbe8958, type: 3}
+  - m_dodgeSFX: {fileID: 8300000, guid: 06e8fc9a8e896b44892246a871ee2eed, type: 3}
+  - m_deathSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,74 @@
+{
+    "name": "CinematicControls",
+    "maps": [
+        {
+            "name": "Cinematic",
+            "id": "a2ad4abf-a99b-4114-b81c-9d68d3453f83",
+            "actions": [
+                {
+                    "name": "Pause/Unpause",
+                    "type": "Button",
+                    "id": "46557f10-c8b5-4e54-9c02-793ce18a7719",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Exit",
+                    "type": "Button",
+                    "id": "9e560222-b17a-46a5-abe6-e3c947ed833b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Reset",
+                    "type": "Button",
+                    "id": "68c5ae7a-26c9-499a-a5d4-06764a1186e4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f63bd7dd-722d-4640-bd82-e78632430013",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause/Unpause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1eee658e-0497-4876-ad87-0cdb81033fbb",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Exit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d7cd6c13-b564-4d97-a21a-b2cfa4aec1e3",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

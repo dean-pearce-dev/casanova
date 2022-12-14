@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60f2fafdaa2e6c34d940b21fe81c837a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_cinemachineAnimator: {instanceID: 0}
+  - m_playerController: {instanceID: 0}
+  - m_playerHealthManager: {instanceID: 0}
+  - m_cellExitTrigger: {instanceID: 0}
+  - m_pauseInput: {fileID: 264803734330199796, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  executionOrder: 90
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

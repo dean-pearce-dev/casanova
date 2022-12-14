@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca186c01b51b3c94eb1c806ef0651e9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_lightAttackInput: {fileID: -8320355365415480858, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  - m_heavyAttackInput: {fileID: -6417292452678418474, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  - m_currentWeaponManager: {instanceID: 0}
+  - m_swordTrail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

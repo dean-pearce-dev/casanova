@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 785e68ea3be0b924ea416f09d5f91d17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_hideQuit: {fileID: -8934335857091083948, guid: 5dc5538aefecce24f8581235895ae91d, type: 3}
+  - m_quitButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

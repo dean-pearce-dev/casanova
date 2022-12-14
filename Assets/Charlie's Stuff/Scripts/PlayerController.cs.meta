@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 611de15752cd70d45888eba308826f29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_movementControl: {fileID: 2691785763913772774, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  - m_jumpControl: {fileID: 7058330660807564182, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  - m_dodgeControl: {fileID: 2037604338768725776, guid: 718be9eb4c7d2ee4198df765b1d66ceb, type: 3}
+  - m_inputDirectionVisual: {instanceID: 0}
+  - m_currentDirectionFaced: {instanceID: 0}
+  executionOrder: 5
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
